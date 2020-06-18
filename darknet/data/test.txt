@@ -1,0 +1,14 @@
+data/dataset/video_MP4_21.jpg
+data/dataset/video_MP4_36.jpg
+data/dataset/video_MP4_53.jpg
+data/dataset/video_MP4_76.jpg
+data/dataset/video_MP4_99.jpg
+data/dataset/video_MP4_125.jpg
+data/dataset/video_MP4_141.jpg
+data/dataset/video_MP4_160.jpg
+data/dataset/video_MP4_184.jpg
+data/dataset/video_MP4_203.jpg
+data/dataset/video_MP4_237.jpg
+data/dataset/video_MP4_257.jpg
+data/dataset/video_MP4_283.jpg
+data/dataset/video_MP4_306.jpg
